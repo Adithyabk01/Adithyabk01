@@ -19,10 +19,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Engineering Student** actively developing software solutions in **AI/ML**, **Full-Stack Web Development**, and **Data Analytics**.
-* 💡 **Problem Solving Focus**: Passionate about bridging theoretical concepts with practical, real-world applications across healthcare, finance, and agriculture.
-* 🛠️ **Full-Stack & Systems**: Hands-on experience architecting modern frontend interfaces (React, TypeScript, Tailwind) and integration layers (Node.js, Supabase, SQL).
-* 🚀 **Currently Building & Exploring**: AI revenue recovery systems (`RecoverAI`), agricultural technology bridges (`Kisan-Sethu`), and healthcare web applications.
+* 🎓 **Engineering Student** building practical applications across AI/ML, full-stack development, and data analytics.
+* 🔧 **Builder at Heart** — I enjoy turning ideas into working products rather than stopping at prototypes.
+* 🌐 **Full-Stack & Systems** — Hands-on experience with React, TypeScript, Tailwind CSS, Node.js, Supabase, and SQL.
+* 🚀 **Currently Building** — [RecoverAI](https://github.com/Adithyabk01/RecoverAI), [Kisan-Sethu](https://github.com/Adithyabk01/Kisan-Sethu), and healthcare-focused applications.
 
 ---
 
@@ -32,10 +32,10 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="100%" bgcolor="#0d1117" style="border: 2px solid #38bdf8; border-radius: 8px; padding: 16px;">
+      <td width="100%" bgcolor="#0d1117" style="border: 2px solid #38bdf8; border-radius: 8px; padding: 18px;">
         <h3 align="left">⚡ FEATURED SPOTLIGHT: RecoverAI — AI Revenue Recovery Agent</h3>
         <p align="left"><b>🏆 Razorpay Buildathon — Track 03: AI Revenue Recovery</b></p>
-        <p align="left">An AI-driven revenue recovery system that detects failed-payment transactions, analyzes churn risk patterns, and automates customer engagement workflows to maximize payment completion rates.</p>
+        <p align="left">An AI-driven revenue recovery system that detects failed payment transactions, analyzes churn risk patterns, and automates customer engagement workflows to maximize payment completion rates.</p>
         <p align="left">
           <code>TypeScript</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>FinTech AI</code>
         </p>
@@ -49,20 +49,20 @@
 
 <br/>
 
-<!-- 2x2 Grid of Pinned Repositories -->
+<!-- 2x2 Grid of Primary Featured Repositories -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">1. 🌾 Kisan-Sethu</h3>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3 align="left">🌾 Kisan-Sethu</h3>
       <p><b>Agricultural Digital Bridge Platform</b></p>
-      <p>Empowering agricultural communities by connecting farmers with real-time crop management tools and digital market access.</p>
+      <p>Connecting agricultural communities with real-time crop management tools and digital market access.</p>
       <p><code>TypeScript</code> • <code>Python</code> • <code>Shell</code></p>
       <p><a href="https://github.com/Adithyabk01/Kisan-Sethu"><b>View Code »</b></a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">2. 🩺 mediread-web</h3>
-      <p><b>Medical Prescription & Document Reader</b></p>
-      <p>A web application built to digitize and simplify prescription readability and health record analysis for patients and practitioners.</p>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3 align="left">🩺 mediread-web</h3>
+      <p><b>Medical Prescription &amp; Document Reader</b></p>
+      <p>Digitizing health records and streamlining prescription readability for patients and practitioners.</p>
       <p><code>React</code> • <code>JavaScript</code> • <code>Vite</code></p>
       <p>
         <a href="https://github.com/Adithyabk01/mediread-web"><b>View Code</b></a> | 
@@ -71,20 +71,20 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">3. 🌐 Portfolio</h3>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3 align="left">🌐 Portfolio</h3>
       <p><b>Personal Developer Portfolio</b></p>
-      <p>An interactive, responsive portfolio showcase displaying personal projects, technical skills, and domain experience.</p>
+      <p>An interactive, responsive portfolio showcase displaying featured projects, technical skills, and domain focus.</p>
       <p><code>JavaScript</code> • <code>React</code> • <code>CSS3</code></p>
       <p>
         <a href="https://github.com/Adithyabk01/Portfolio"><b>View Code</b></a> | 
         <a href="https://portfolio-adithyabk01s-projects.vercel.app/"><b>Live Demo ✨</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">4. ⚡ RecoverAI</h3>
+    <td width="50%" valign="top" style="padding: 12px; border: 1px stroke #38bdf8;">
+      <h3 align="left">⚡ RecoverAI</h3>
       <p><b>AI Revenue Recovery Agent</b></p>
-      <p>Autonomous AI recovery agent built for Razorpay Buildathon to intelligently recover dropped payment revenue.</p>
+      <p>Autonomous AI revenue recovery platform built for Razorpay Buildathon to recover failed payment revenue.</p>
       <p><code>TypeScript</code> • <code>React</code> • <code>Tailwind CSS</code></p>
       <p><a href="https://github.com/Adithyabk01/RecoverAI"><b>View Code »</b></a></p>
     </td>

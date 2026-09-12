@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" height="140" style="background:#ffffff; border-radius: 12px;">
+  <rect width="800" height="140" rx="12" fill="#ffffff" stroke="#e1e4e8" stroke-width="1"/>
+  <g transform="translate(400, 70)" text-anchor="middle">
+    <text y="-10" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto" font-size="16" font-weight="600" fill="#0284c7">🐍 GitHub Contribution Snake Activity</text>
+    <text y="15" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto" font-size="13" fill="#57606a">Automated snake animation syncs daily via GitHub Actions</text>
+  </g>
+</svg>
